@@ -1,6 +1,6 @@
 (setq c-default-style "bsd"
-      c-basic-offset 8
-      tab-width 8
+      c-basic-offset 4
+      tab-width 4
       indent-tabs-mode t)
 (require 'whitespace)
 (setq whitespace-style '(face empty lines-tail trailing))
